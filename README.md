@@ -1,4 +1,4 @@
-# Amazon Review Analysis using Vader,RoBERTa and NLTK
+# Amazon Reviews Analysis using Vader,RoBERTa and NLTK
 
 This project aims to analyze Amazon reviews using two different approaches: Vader sentiment analysis and RoBERTa-based sentiment classification. The project utilizes Natural Language Processing (NLP) techniques to extract insights and sentiment from customer reviews on Amazon.
 
